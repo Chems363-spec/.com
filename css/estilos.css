@@ -1,0 +1,25 @@
+/*Body*/
+body{
+    font-family: 'Montserrat', sans-serif;
+    overflow-x: hidden;
+}
+
+/*Menu*/
+#menu a{
+    font-size: 15px;
+    font-weight: bold;
+    color: black;
+}
+
+#menu button{
+    font-size: 15px;
+    font-weight: bold;
+    color: black;
+}
+
+/*carurusel*/
+.carousel-inner{
+    max-height: 25rem;
+
+
+}
